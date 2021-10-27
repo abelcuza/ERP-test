@@ -1,4 +1,5 @@
 # How to run the project
+Note: Use python >= 3.8
 ### Set up the project
 Install the requirements:    
 ```shell script
